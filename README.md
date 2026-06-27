@@ -362,8 +362,8 @@ body:not(.lang-es) [lang-en]{display:none}
       <lang-en>Less tech problems,<br><em>more results.</em></lang-en>
     </h1>
     <p class="hero-sub">
-      <lang-es>Soporte presencial y remoto para empresas y PYMES en Panamá. Mantenimiento, redes, impresoras y mucho más — con respuesta el mismo día.</lang-es>
-      <lang-en>On-site and remote IT support for businesses in Panama. Maintenance, networks, printers and more — same-day response.</lang-en>
+      <lang-es>Soporte presencial y remoto para empresas y PYMES en Panamá. Mantenimiento, redes, impresoras y mucho más.</lang-es>
+      <lang-en>On-site and remote IT support for businesses in Panama. Maintenance, networks, printers and more.</lang-en>
     </p>
     <div class="hero-btns">
       <a href="#cotizador" class="btn btn-primary">
@@ -421,7 +421,7 @@ body:not(.lang-es) [lang-en]{display:none}
   <div class="fade-in">
     <p class="section-label"><lang-es>Lo que hacemos</lang-es><lang-en>What we do</lang-en></p>
     <h2 class="section-title"><lang-es>Servicios IT para tu empresa</lang-es><lang-en>IT services for your business</lang-en></h2>
-    <p class="section-sub"><lang-es>Atención presencial en Panamá y Colón. Respondemos el mismo día.</lang-es><lang-en>On-site service in Panama and Colón. Same-day response.</lang-en></p>
+    <p class="section-sub"><lang-es>Atención presencial en Panamá y Colón.</lang-es><lang-en>On-site service in Panama and Colón. </lang-en></p>
   </div>
   <div class="services-grid">
     <!-- Servicio 1 -->
