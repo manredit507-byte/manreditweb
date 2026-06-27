@@ -2,9 +2,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="MAN-RED-IT — Soporte técnico, mantenimiento preventivo y redes en Panamá y Colón. Menos problemas técnicos, más resultados.">
+<meta name="description" content="ManRed-iT — Soporte técnico, mantenimiento preventivo y redes en Panamá y Colón. Menos problemas técnicos, más resultados.">
 <meta name="keywords" content="soporte tecnico panama, mantenimiento computadoras colon, redes LAN wifi panama, IT support panama">
-<title>MAN-RED-IT | Soporte IT · Panamá · Colón</title>
+<title>ManRed-iT | Soporte IT · Panamá · Colón</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
 <style>
